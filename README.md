@@ -1,6 +1,6 @@
 # Nice to meet you, my name is Quan Nguyen, a programming enthusiast
 
-<div align="center"><img src="https://media2.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif?cid=ecf05e47qx338eiazz24cn4ygl02mq4so4wm9jxmroin8xjo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" height="300"></div>
+<div align="center"><img src="https://media2.giphy.com/media/OpBA2nKQog7LENz8Of/giphy.gif?cid=ecf05e47qx338eiazz24cn4ygl02mq4so4wm9jxmroin8xjo&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" height="200"></div>
 
 ## About Me
 
