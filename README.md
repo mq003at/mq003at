@@ -24,8 +24,7 @@
 <i class="devicon-mongodb-plain-wordmark colored"></i>
 
 ## My Top Language
-<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HungHoang108)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=HungHoang108)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 mq003at/mq003at is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
