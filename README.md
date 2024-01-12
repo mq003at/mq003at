@@ -9,6 +9,7 @@
 - 🎓 I have a Bachelor Degree of Information Technnology from Centria University of Applied Sciences.
 - 💞️ I’m looking to collaborate on any projects and a position in Web Developer.
 - 📫 You can reach me through e-mail: quan.nguyen.suomea@gmail.com.
+- 📑 Here is my CV if you want to take a peek: [Get my resume](https://drive.google.com/file/d/1PXgke3Cp8ElqETdvbmtjRmQ5zddNEuFc/view?usp=sharing).
 
 ## Mastered Technologies
 <div display="inline-block" gap="10px">
