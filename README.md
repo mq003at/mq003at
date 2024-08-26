@@ -10,6 +10,7 @@
 - 📫 You can reach me through e-mail: quan.nguyen.suomea@gmail.com.
 - 📑 Here is my CV if you want to take a peek: [Get my resume!](https://drive.google.com/file/d/1JuBB98FFKBWcVh4pY0lIh9NUgzCLx8Wl/view?usp=sharing)
 - 💞️ I’m a fan of chocolate milk, good novels, and entertaining video games.
+- 🏃‍♂️ What are you waiting for? Head to my pinned projects to see what I do.
 
 ## Technologies I Work With
 ### Frontend
