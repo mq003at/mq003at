@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👋 I am a Junior Fullstack Developer who enjoys creating creative and interactive websites
+- 👋 I am a Fullstack Developer who enjoys creating creative and interactive websites
 - 📖 My main technology is React, Javascript/Typescript, and Firebase/MongoDB. However, I am always willing to learn new technologies.
 - 🎓 I have a [Bachelor's Degree of Information Technology](https://drive.google.com/file/d/1xuPv1m1NiPDbdWNSCkDVr8JxYqHy6RzK/view?usp=sharing) from Centria University of Applied Sciences.
 - 📫 You can reach me through e-mail: quan.nguyen.suomea@gmail.com.
